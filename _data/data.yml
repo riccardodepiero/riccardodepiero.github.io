@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Riccardo De Piero
-  tagline: Terapista Occupazionale Pediatricoo
+  tagline: Terapista Occupazionale Pediatrico
   avatar: fotocv_100x100.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -35,7 +35,7 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: LLingue
+    title: Lingue
     info:
     - idiom: Italiano
       level: Lingua Madre
@@ -47,7 +47,7 @@ sidebar:
       level: Base
 
   interests:
-    title: Interests
+    title: Interessi
     info:
     - item: Hip Hop
       link:
