@@ -19,13 +19,13 @@ sidebar:
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: Riccardo De Piero
-  xing: alandoe
-  github: jekyll
+  xing: 
+  github: 
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,10 +35,10 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
-    title: Languages
+    title: LLingue
     info:
     - idiom: Italiano
-      level: Native
+      level: Lingua Madre
 
     - idiom: Inglese
       level: Avanzato
@@ -49,15 +49,15 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Hip Hop
       link:
 
 
-    - item: Snowboarding
+    - item: Collezionismo
       link:
 
 
-    - item: Cooking
+    - item: Videogiochi
       link:
 
 
@@ -70,11 +70,11 @@ career-profile:
     tecnologie assistive, strumenti di comunicazione aumentativa e
     soluzioni per l'accessibilità.
 education:
-  title: Education
+  title: Studi
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: "Laurea in Psicologia dello sviluppo e dell'educazione"
+    university: Università degli Studi di Padova
+    time: 2018
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,9 +83,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Laurea in Terapia Occupazionale
+    university: Università degli Studi di Padova
+    time: 2023
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
