@@ -263,22 +263,22 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Tecnologie Assistive
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Puntatori Oculari
     level: 98%
 
-  - name: Angular
+  - name: CAA
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Ausili
     level: 95%
 
-  - name: Ruby on Rails
+  - name: Autonomie
     level: 85%
 
-  - name: Sketch & Photoshop
+  - name: Neurovisione
     level: 60%
 
 footer: >
